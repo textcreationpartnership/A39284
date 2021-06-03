@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fourth sermon preach'd before the King and Queen in Their Majesties chappel at St. James's on Newyears-day, 1685/6 / by the reverend father, dom. Ph. Ellis ...</title>
+            <author>Ellis, Philip, 1652-1726.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39284</idno><idno type="EEBO-CITATION">12754372</idno>
+  <idno type="VID">93381</idno>
+  <idno type="EEBO-PROQUEST">2240959688</idno>
+  
+            <idno type="STC">Wing E596</idno>
+            <idno type="STC">ESTC R32782</idno>
+            <idno type="OCLC">12754372</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1526:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fourth sermon preach'd before the King and Queen in Their Majesties chappel at St. James's on Newyears-day, 1685/6 / by the reverend father, dom. Ph. Ellis ...</title>
+                  <author>Ellis, Philip, 1652-1726.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties Command."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93381:1"/>
+            <pb facs="tcp:93381:1"/>
+            <p>The Fourth SERMON Preach'd before the King and Queen, IN Their MAJESTIES Chappel at St. <hi>James</hi>'s, on <hi>Newyears-day,</hi> 1685/6. By the Reverend Father <hi>Dom. PH. ELLIS,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congr. Chaplain in Ordinary to His MAJESTY.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>Published by His Majesties Command.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's most Excellent Majesty, for his Houshold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93381:2"/>
+            <pb n="1" facs="tcp:93381:2"/>
+            <head>The Fourth SERMON Preach'd before THEIR MAJESTIES, On <hi>Newyears-day,</hi> 1685/6.</head>
+            <epigraph>
+               <q>
+                  <p>Postquam consummati sunt dies octo, ut circumcideretur puer, vocatum est no<g ref="char:EOLhyphen"/>men ejus JESUS. </p>
+                  <bibl>
+                     <hi>Luc.</hi> 2.21.</bibl>
+                  <p>
+                     <hi>When eight days were accomplished, for the circumcising of the child, his name was called JESƲS.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the Evangelist in this Chap<g ref="char:EOLhyphen"/>ter had given us a short Ac<g ref="char:EOLhyphen"/>count of the Method and Oeco<g ref="char:EOLhyphen"/>nomy of our Redemption, and set down, as it were, in the Minutes, the
+<pb n="2" facs="tcp:93381:3"/>more remarkable Circumstances of our Saviour's Nativity, his painful Journey to <hi>Bethlehem,</hi> the more afflicting Rejection when he arriv'd there, his still more stu<g ref="char:EOLhyphen"/>pendious condescending to be born in a Stable, and what surpasses all the rest (ac<g ref="char:EOLhyphen"/>cording to the Measures of Humane Pru<g ref="char:EOLhyphen"/>dence) his Manifesting and Revealing him<g ref="char:EOLhyphen"/>self in the first place to the meanest and most contemptible sort of Mankind, in<g ref="char:EOLhyphen"/>viting poor <hi>Shepherds</hi> to adore him, and inspiring them to become his first <hi>Evange<g ref="char:EOLhyphen"/>lists:</hi> The Holy Penman, I say, of this Hi<g ref="char:EOLhyphen"/>story, having by such Degrees wrought up our Imaginations to so high a Point, seems as tho' he wou'd leave us there, leave our suspended Minds to contemplate this great Vision, leave us full of Wonder and Amazement, and concludes, <hi>Omnes qui au<g ref="char:EOLhyphen"/>dierunt mirati sunt.</hi> All these Particulars were so exceeding marvellous, and all that heard them were so strangely transported, as if nothing cou'd be added to the Sub<g ref="char:EOLhyphen"/>ject of their Admiration, as if <hi>Admiration</hi> it self could rise no higher: <hi>Mirati sunt omnes.</hi>
+            </p>
+            <pb n="3" facs="tcp:93381:3"/>
+            <p>But the Continuance of his Narration, which is the Subject before us, renders all these complicated Miracles but <hi>Seven days wonder;</hi> for, <hi>When the eighth day was come, that the child should be circumcised, his name was call'd JESƲS.</hi> That the Blessed Child was Circumcis'd, is an accumula<g ref="char:EOLhyphen"/>tive Miracle; a wonderful Dispensation of the Eternal <hi>Father,</hi> inflicting upon his Beloved <hi>Son</hi> the Punishment due only to the Rebellious <hi>Slave;</hi> a wonderful Severi<g ref="char:EOLhyphen"/>ty of the Blessed Infant upon himself, vo<g ref="char:EOLhyphen"/>luntarily submitting to the Rigour of the Law, which he had never violated, and taking the Badge of the Sin he had never contracted. But Oh! the more then He<g ref="char:EOLhyphen"/>roical Courage of his most tender <hi>Mother,</hi> assisting at this Bloody Ceremony, without a Sigh, without a Tear, excepting those which by necessity gush'd at the same in<g ref="char:EOLhyphen"/>stant from her Heart, and from his Wounds; <hi>For in every Part of the Child you may find the Heart of the Mother.</hi>
+            </p>
+            <p>But when the Child was Circumcis'd, that his Name should be call'd <hi>JESƲS,</hi>
+               <pb n="4" facs="tcp:93381:4"/>awakens us out of one Admiration into a greater;
+<note place="margin">Psal. 41.8.</note>
+               <hi>Abyssus abyssum invocat;</hi> The Abyss of <hi>Humility</hi> calls upon the deeper and wi<g ref="char:EOLhyphen"/>der Ocean of <hi>Charity:</hi> Here the Eye of Reason loses all Object, and only Love can <hi>comprehend the beight and the depth,</hi> can fathom and measure the most extend<g ref="char:EOLhyphen"/>ed, and most profound Operation of the Divine Goodness.</p>
+            <p>That the Child was Circumcised, is a Miracle of Humility, exceeding that of be<g ref="char:EOLhyphen"/>ing born in a Stable, that he takes upon him the mark of a Sinner, is more than assuming the form of Man; <hi>Jam non so<g ref="char:EOLhyphen"/>lum formam hominis,</hi> (cries the devout St. <hi>Bernard,) Sed formam etiam habet peccato<g ref="char:EOLhyphen"/>ris;</hi> but while he makes light to spring out of darkness, and with the black Chara<g ref="char:EOLhyphen"/>cters of Death, forms the bright name of <hi>JESƲS,</hi> while from under the Cloud, and appearance of Sin,
+<note place="margin">Mal. 4.2.</note>
+               <hi>The Sun of Justice rises to us, with Healing,</hi> with Salvation <hi>in his Wings;</hi> while he appears so Beautiful in his Tears, so Lovely in his Sufferings, so Charming in the Vermilion of his own
+<pb n="5" facs="tcp:93381:4"/>Blood, <hi>(Dilectus meus candidus,</hi>
+               <note place="margin">Cant. 5.10.</note>
+               <hi>&amp; rubicun<g ref="char:EOLhyphen"/>dus,)</hi> so Amiable under the goring Knife, a Suffering Infant, but a Saving <hi>JESƲS:</hi> O how these Considerations swallow up our Thoughts, transcend our Concepti<g ref="char:EOLhyphen"/>ons, leave all Created Understanding far below; and do you still exspect they shou'd be the Subject of my Discourse, and of your Attention? No Christian, I can only lead you to the Stable, which is now become an <hi>Altar,</hi> where the Lamb of God lies bleeding for your Sins, that is by your Hands; I only ascend the Chair to imi<g ref="char:EOLhyphen"/>tate that Orator, who carried the bloody Garment of <hi>Caesar</hi> into the Pulpit, I come only to shew you the Pretious Blood shed this Day, in the Circumcision, and to ac<g ref="char:EOLhyphen"/>quaint you, that it is the Blood, not only of a <hi>Caesar,</hi> yet that is an unsufferable pro<g ref="char:EOLhyphen"/>spect of our Treason and Parricide; not only that of a Parent, or of a Brother, yet, that is a horrible spectacle to Flesh and Blood; not only that of an injur'd, and wounded Friend, yet that would pierce a Heart which is not turned into Stone; but the Blood of a <hi>JESƲS,</hi> a name above all
+<pb n="6" facs="tcp:93381:5"/>names, that comprehends all the most en<g ref="char:EOLhyphen"/>dearing Epithets, that comprises all the terms of <hi>Allegiance,</hi> of <hi>Friendship,</hi> of <hi>Love,</hi> of <hi>Honour,</hi> and is a Sermon in a Word. And may the cries of this Blood (for that too has its Voice, <hi>if your Ears are Circum<g ref="char:EOLhyphen"/>cised to hear it</hi>) drown my Words, <hi>for it speaks</hi> (says the Apostle) <hi>better things then that of</hi> Abel:
+<note place="margin">Hebr. 12.24.</note> And may this Sacred Name plead for it self unto your Hearts, whether my Voice can never reach, and which my Mouth cannot pronounce (according to the Apostle) to your Instruction,
+<note place="margin">1 Cor. 12.3.</note>
+               <hi>Nisi in Spiritu Sancto,</hi> unless the Holy Ghost give motion to my Lips, force to my Words, and efficacy to my Doctrine; Let us im<g ref="char:EOLhyphen"/>plore his Assistance by her Intercession, who is so great a part of this Day's Solem<g ref="char:EOLhyphen"/>nity; and who, as being the greatest in<g ref="char:EOLhyphen"/>strument in the Work of our Redemption, by bearing our Redeemer, is also the greatest sharer in his Sufferings, and the most concerned in the Honour of that name, which she learned from the <hi>Angel</hi> when he saluted her, <hi>AVE MARIA.</hi>
+            </p>
+            <pb n="7" facs="tcp:93381:5"/>
+            <p>ALthough the Mercies as well as <hi>the Judgments of God are unsearchable,</hi>
+               <note place="margin">Rom. 11.33.</note>
+               <hi>and all his ways past finding out;</hi> altho' when we contemplate his <hi>supernatural Works,</hi> Nature ought to be silent, and Reason plunge it self into an <hi>O altitudo! O the depth of the riches, both of the Wisdom and Knowledge of God!</hi> and joyfully despair of finding out the <hi>Sense of our Lord,</hi> or reducing within the narrow compass of an Humane Mind, the Operations of an illimited Power, (which are not the Subject of a curious Disquisiti<g ref="char:EOLhyphen"/>on, but of an humble Belief;) yet as far as a Created Understanding can dive into the great <hi>Arcanum,</hi> and secret Conduct of the <hi>riches of that Wisdom</hi> in the Work of our Redemption, the Holy Fathers observe, that in it the Son of God proposed to him<g ref="char:EOLhyphen"/>self two excellent Methods, corresponding to our double Necessity. The one, by putting himself in such a condition as might qualify him to deliver us from a <hi>So<g ref="char:EOLhyphen"/>vereign Evil,</hi> to which we became obnoxi<g ref="char:EOLhyphen"/>ous by the Apostacy of our First Parent: The other, by assuming such a capacity as
+<pb n="8" facs="tcp:93381:6"/>might restore us to the forfeited possession of a <hi>Sovereign Good.</hi> This cou'd not be performed according to the rigour of Justice, but by the Person of a God, cloath<g ref="char:EOLhyphen"/>ed with the Nature of Man, which is my first Point: Nor according to the true No<g ref="char:EOLhyphen"/>tion, and Rules of Satisfaction, without his submitting to the Penalty of Sin, as it was enacted by the Law of Circumcision, which is my second Point, and which me<g ref="char:EOLhyphen"/>rited to him the glorious Name of <hi>JE<g ref="char:EOLhyphen"/>SƲS;</hi> a double Subject of your Royal Pa<g ref="char:EOLhyphen"/>tience, and Favourable Attention.</p>
+            <p n="1">I. The wounds of Humane Nature are so wide and apparent, that I need not bring any proof to evince what every one do's too much experience; or if any one be so insen<g ref="char:EOLhyphen"/>sible as to question whether our Nature be corrupted, at the same time he confirms it, and gives in evidence, that his is so. For it is impossible that a God <hi>whose Nature is Good<g ref="char:EOLhyphen"/>ness,</hi> and <hi>whose Works are perfect,</hi> shou'd create us with such an Aversion to Good, such a Propension to Evil, so covered, and sur<g ref="char:EOLhyphen"/>rounded with imperfection, or put us in a
+<pb n="9" facs="tcp:93381:6"/>condition so diametrically opposite to the end of the Creation, and to the happiness of the Creature. Wherefore, all those In<g ref="char:EOLhyphen"/>stances which prove us <hi>miserable,</hi> demon<g ref="char:EOLhyphen"/>strate that we are <hi>Criminal;</hi> for nothing cou'd défeat the Merciful Purposes of <hi>the Divine Will,</hi> but the voluntary abuse of our own <hi>Liberty,</hi> which first sets us in op<g ref="char:EOLhyphen"/>position to God, and renders us unworthy both of his <hi>Grace</hi> in this World, and of his <hi>Glory</hi> in the next; and then, as by a neces<g ref="char:EOLhyphen"/>sary consequence Subjects us to Afflictions and Death here, and to Eternal Torments herereafter, <hi>which is the Second Death.</hi>
+               <note place="margin">Rev. 21.8.</note> Wherefore, <hi>Magna miseria,</hi> (says St. <hi>Au<g ref="char:EOLhyphen"/>gustin,) magnâ indiget medicinâ,</hi> the extre<g ref="char:EOLhyphen"/>mity of our Condition required no less then an Infinite Skill, and an Omnipotent Hand to cure us, and our Servitude call'd for a Redeemer willing and able to per<g ref="char:EOLhyphen"/>form two things, which no one cou'd do but himself; the First to acquit us before the Divine Justice, of the Contract we had made with Death, to cancel the fatal Co<g ref="char:EOLhyphen"/>venant, and reverse the Sentence of our Condemnation; and <hi>Secondly,</hi> to restore
+<pb n="10" facs="tcp:93381:7"/>our Title to Eternal Happiness, to level the <hi>Partition-wall,</hi>
+               <note place="margin">Ephes. 2.14.</note> to work us first into the fa<g ref="char:EOLhyphen"/>vour, and then introduce us into the joy of our Master.</p>
+            <p>Now since both those Divine Qualifica<g ref="char:EOLhyphen"/>tions, the <hi>Reconciling</hi> and the <hi>Meritorious Property,</hi> are essential to, and inseparable from the Person of a <hi>Saviour;</hi> it evident<g ref="char:EOLhyphen"/>ly follows, That no one could deserve that Style, who did not unite in himself the Perfection of the Divine Nature, and the Innocence of the Humane. He was to be Man, the Rules of Justice requiring, that the Nature which contracted the Debt shou'd pay it, that the Satisfaction shou'd issue from the Principle which had com<g ref="char:EOLhyphen"/>mitted the Offence: But upon the same account that he was to be <hi>Man,</hi> he was not to be a <hi>Sinner;</hi> for how can one Cri<g ref="char:EOLhyphen"/>minal justifie another? How can a Priso<g ref="char:EOLhyphen"/>ner, loaden with Irons, enlarge his Fel<g ref="char:EOLhyphen"/>lows? How cou'd one that was already the Object of the Divine Hatred, and Subject of his Vengeance, plead the Par<g ref="char:EOLhyphen"/>don, or merit the Release of all Mankind,
+<pb n="11" facs="tcp:93381:7"/>having nothing to answer for himself, but standing convicted of the same Treason?</p>
+            <p>He must therefore be Innocent, and Ex<g ref="char:EOLhyphen"/>empt from that Hereditary Stain which is in-born to every one, that after the ordi<g ref="char:EOLhyphen"/>nary manner descends from the Mass of Corrupted Nature: But since he was to be Man of the same Stock which contra<g ref="char:EOLhyphen"/>cted the Stain, he was to be born of a <hi>Woman;</hi> but because Man innocent, he was to be born of a <hi>Virgin,</hi> pure and un<g ref="char:EOLhyphen"/>spotted, as a Beam of Light flows from the Sun; and no more endamaging the Integrity of his Blessed Mother, then that do's the Crystal thro' which it passes, not violating, but illustrating. So clear is it, that the Redeemer of Man ought himself to be Man, and that <hi>Man Innocent.</hi> But, secondly, unless he were God too, it is as evident that he cou'd not be qualified for that Great Work; for by a Divine and Immutable Decree of strict Justice, Apostate and Rebellious Man was sentenc'd to a Death, severe indeed, but no less then Treason and Rebellion deserve, an Infinite
+<pb n="12" facs="tcp:93381:8"/>Punishment; <hi>Infinite,</hi> I say, not in refe<g ref="char:EOLhyphen"/>rence to the Punishment consider'd in its own nature; for no Evil can be properly Infinite: or if it cou'd be so, yet a Finite Being, as ours, is not susceptible, is not ca<g ref="char:EOLhyphen"/>pable of an Infinite Suffering: Infinite therefore it must be as to its <hi>Duration,</hi> that is, Eternal, corresponding to Sin, which is of an Infinite Malignity, not in its own nature, being the Action, or rather the Deformity of an Action, proceeding from a limited Agent; but in order to the Ob<g ref="char:EOLhyphen"/>ject against which it is directed, the Infinite Goodness and Majesty of God.</p>
+            <p>And since, in Criminal Matters, the Dig<g ref="char:EOLhyphen"/>nity and Excellency of the Person satisfy<g ref="char:EOLhyphen"/>ing is the Measure of the Satisfaction; an Offence of an Infinite Enormity calls for an equal Reparation, and that for an Infi<g ref="char:EOLhyphen"/>nite Person to make it: Wherefore no less then the Person of God, in Union with the Nature of Man, cou'd expiate the Crime of Man against an offended God.</p>
+            <pb n="13" facs="tcp:93381:8"/>
+            <p>Such is JESUS CHRIST; and so he makes good the Glorious Title of <hi>Me<g ref="char:EOLhyphen"/>diator between God and Man,</hi> uniting both the Natures in one Person, <hi>Suffering in what he borrow'd of us, but satisfying in what he had of his own,</hi> (says St. <hi>Augustin.</hi>) As Man he Suffers, as God and Man he Redeems; as Man he pleads our Pardon, but merits it as the Person of a God; as Man he sheds his Precious Blood, and in this Days Suf<g ref="char:EOLhyphen"/>fering begins the painful Journey of the Cross. But these Drops issuing from the Veins of an Incarnate Divinity, are of an Inestimable Value, of an Infinite Price, and alone wou'd be a <hi>plentiful Redemption: Sed amanti nihil satis:</hi> As where Nature finish<g ref="char:EOLhyphen"/>es, Grace do's only begin; so the highest Point of Natural Love is but the Founda<g ref="char:EOLhyphen"/>tion of the Divine; and my Second Point will shew, that the Score of <hi>Love</hi> is longer then that of <hi>Sin,</hi> and that the Circumcisi<g ref="char:EOLhyphen"/>on was but the first Line, the beginning of the one which might have been the full Payment and Period of the other.</p>
+            <pb n="14" facs="tcp:93381:9"/>
+            <p n="2">II. <hi>When the eight days were accomplish'd, that the child shou'd be circumcis'd, his name was call'd</hi> JESUS. But was not his Name call'd so <hi>before he was conceiv'd in the womb?</hi> The <hi>Angel</hi> verifies the thing, and St. <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> gives the Reason;
+<note place="margin">S. <hi>Bern.</hi> Serm. de Cir<g ref="char:EOLhyphen"/>cumc.</note>
+               <hi>Because</hi> (says he) <hi>it was not an Additional, but an Essential Appellation: Innatum est ei nomen, &amp; non inditum.</hi> Other Children are nam'd after they are born; and if a St. <hi>John Baptist,</hi> or perhaps a <hi>Jeremy,</hi> were privileg'd to re<g ref="char:EOLhyphen"/>ceive it before; yet it was after they were conceiv'd in the Womb; for that which has no <hi>Being,</hi> can have no <hi>Name.</hi> But since JESUS receiv'd the Style of a <hi>Sa<g ref="char:EOLhyphen"/>viour,</hi> before he assum'd the Nature of Man, we learn from the same Father, that it flow'd from his Eternity, and was the Property of his Divine Person:
+<note place="margin">Ibidem.</note>
+               <hi>A naturà proprià habet ut sit salvator.</hi> But then what Relation between this Glorious Title, and the Ignominious Badge of a Sinner? Was the Circumcision such a necessary Circumstance, that from the Date of that Penal Ceremony, that Mark of Servitude,
+<pb n="15" facs="tcp:93381:9"/>he shou'd Calculate the Beginning of his Reign? Was Subjection to the Law the properest Matter to instance in the first Act of his Sovereignty? or the Dying his Pur<g ref="char:EOLhyphen"/>ple in his own Blood, a Demonstration that he was the Prince of Peace? In fine, What had a JESUS to do with Circumcision? or what had Circumcision to efface in a JESUS?</p>
+            <p>I am not ignorant that Circumcision was to the <hi>Jew,</hi> what Baptism is to the <hi>Christian,</hi> and the Means of taking off Original Sin from all the Male-kind de<g ref="char:EOLhyphen"/>scended of <hi>Abraham,</hi> with whom that Co<g ref="char:EOLhyphen"/>venant was made. I know it was a di<g ref="char:EOLhyphen"/>stinctive Character by which the Receiver was matriculated, and entred into the Peo<g ref="char:EOLhyphen"/>ple of God.</p>
+            <p>But these Reasons do not subsist in the Person of JESUS, who, as the Son of God, ought not to wear the Mark of Servitude; as Original of Innocence, was incapable of that of Sin; and as a Re<g ref="char:EOLhyphen"/>deemer,
+<pb n="16" facs="tcp:93381:10"/>
+               <hi>his hour was not yet come.</hi> Indeed he Enacted that Law, but for Sinners; he Enacted the Law,
+<note place="margin">Ulp. &amp; J. C. passim. Vid. <hi>D.</hi> John<g ref="char:EOLhyphen"/>ston <hi>of Go<g ref="char:EOLhyphen"/>vernment,</hi> cap. 19. Licet legi<g ref="char:EOLhyphen"/>bus soluti sumus, ta<g ref="char:EOLhyphen"/>men secun<g ref="char:EOLhyphen"/>dum leges vivimus. Instit. quib. mod. Test. infirm.</note>
+               <hi>sed Princeps legibus solu<g ref="char:EOLhyphen"/>tus est;</hi> But Princes are not subject to the Laws they make, farther then their great Prudence judges it expedient to conde<g ref="char:EOLhyphen"/>scend to the Infirmity of the Subject. Here I begin to see Light, and to discover the admirable Methods of the Divine Wis<g ref="char:EOLhyphen"/>dom in the Oeconomy of our Redempti<g ref="char:EOLhyphen"/>on, mixing and (as I may say) confound<g ref="char:EOLhyphen"/>ing the Power of the Divine Nature with the Weakness of the Humane, to express the otherwise Incomprehensible Union of the Two Natures in the Person of JE<g ref="char:EOLhyphen"/>SUS. And of this we have as many Proofs, as there are Circumstances in his Nativity, Passages in his Life, and Pro<g ref="char:EOLhyphen"/>digies at his Death. But I must not ex<g ref="char:EOLhyphen"/>ceed the Limits of my Time, and ought not to transgress the Bounds of my Sub<g ref="char:EOLhyphen"/>ject; wherefore, to keep close to the Mat<g ref="char:EOLhyphen"/>ter: For this very Reason the Glorious Name of JESUS is joyn'd with the Pain and Ignominy of the Circumcision, the
+<pb n="17" facs="tcp:93381:10"/>Style of a God with the Character of a Sinner, that while the afflicting Ceremo<g ref="char:EOLhyphen"/>ny speaks him true Man, the Name of Sa<g ref="char:EOLhyphen"/>viour may proclaim him true God, and oblige us to acknowledge, that if he le<g ref="char:EOLhyphen"/>vel himself to our low Condition, it is to raise it; if to our Weakness, it is to strengthen it; if to our Slavery, it is to redeem it; if to the Appearance and Image of Sin in the Circumcision, it is to apply the Antidote in the Name of JESUS.</p>
+            <p>Thus when Eight Days were accom<g ref="char:EOLhyphen"/>plish'd for the Circumcising of the Child, his Love carried it above his Power, and the Child was Circumcis'd; had he pleaded his Exemption as innocent, he wou'd have rent <hi>the Vail</hi> before the proper time, <hi>and laid open the Mystery,</hi>
+               <note place="margin">Col. 1.26.</note>
+               <hi>a seculis absconditum,</hi> which was to be hidden from the World till his last expiring on the Cross: Had he over-ruled the Law by his absolute Authority, he wou'd not have acted consequently to his Commission, which was <hi>not to annul, but to fulfil it,</hi>
+               <note place="margin">Matth. 5.17.</note> not
+<pb n="18" facs="tcp:93381:11"/>to vacate, but to improve the Shadow in<g ref="char:EOLhyphen"/>to the Substance, the Figure into the Rea<g ref="char:EOLhyphen"/>lity, the Corporal Circumcision into the Spiritual, the Law of Severity into that of Mercy, a heavy Yoke into a light Burthen, the Laver of Blood into the Baptismal Ab<g ref="char:EOLhyphen"/>lution, and as <hi>in re,</hi> so <hi>in nomine,</hi> and therefore <hi>his Name was call'd</hi> JESUS. For before that Instant, his Appellation was only Prophetick,
+<note place="margin">Matth. 1.21.</note>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith the Angel, <hi>He shall save his People;</hi> but now, he enters upon his Province, he begins the Work of our Salvation, he officiates as a Saviour; for since he resolv'd to fix no period to the ve<g ref="char:EOLhyphen"/>hemency of his affection, nor stem the current of his Blood, while there was a drop left in his Veins, he look'd on the Cross as at vast distance, a Thirty three Years Journey, before he cou'd arrive to <hi>the desir'd Chalice;</hi> he thought the Hours, the Days, the Years wou'd come on slowly, and with Lead upon their Feet, and there<g ref="char:EOLhyphen"/>fore transported with the impatience of a Lover, he resolves to set out early, and by a Stratagem of Love he converts the
+<pb n="19" facs="tcp:93381:11"/>
+               <hi>Stable</hi> into a <hi>Calvary,</hi> the <hi>Manger</hi> into an <hi>Altar,</hi> the Circumcision into Crucifixion, writing himself a JESUS in the Characters of his own Flesh, and in the Tincture of his own Blood: But to leave a Stock for Multiplication, for the matter of a great<g ref="char:EOLhyphen"/>er Suffering, and a more copious effusi<g ref="char:EOLhyphen"/>on, he makes the Wounding Knife only a Prelude to the gauling Scourge, to the piercing Nails, and to the searching Spear, when the true <hi>Mount Calvary</hi> shou'd finish what <hi>Bethlehem</hi> began, and whom that City beheld, not only rejected, not only born, but also bleeding in a Stable; <hi>Jerusalem</hi> shou'd one Day see rejected in the prime of his Life, and Glories; and at last, <hi>Extra portam passum,</hi> once more <hi>suffering without the Gates.</hi>
+               <note place="margin">Hebr. 13.12.</note>
+            </p>
+            <p>
+               <hi>Et nunc filiae Jerusalem egredimini. And now ye Daughters of</hi> Jerusalem, the Spouses of the Lamb, whom he affiances in his own Blood, <hi>come forth, and behold</hi> a most doleful, and calamitous spectacle, which at the same wounds the Eye, and the
+<pb n="20" facs="tcp:93381:12"/>Heart, forces your Compassion, and ex<g ref="char:EOLhyphen"/>acts your Affection, if your Breasts are not harder than the <hi>Flint</hi> that made the Wound. <hi>Egredimini,</hi> draw all your Soul into your Eye, and behold your Beloved in the first dawning of his Life, lying up<g ref="char:EOLhyphen"/>on the brink of Death, struggling for that little Breath he had scarcely receiv'd, and groaning under those Wounds which per<g ref="char:EOLhyphen"/>haps wou'd be Mortal, were not his Love Immortal; Wounds that Crown him as a Sacrifice to the Altar, not to live longer, but to die later, and to suffer more.</p>
+            <p>He was <hi>descending from</hi> Jerusalem <hi>to</hi> Je<g ref="char:EOLhyphen"/>richo, and behold, at the very setting out, he is fallen into unmerciful Hands, and more cruel Hearts, which neither the Ten<g ref="char:EOLhyphen"/>derness of his Age can mollifie, nor the Majesty of his Countenance can deter, nor the Rhetorick of his Tears can per<g ref="char:EOLhyphen"/>suade, nor the sweetness of his <hi>Name</hi> can charm; but having wounded him, left him weltering in his own Blood; <hi>Semi<g ref="char:EOLhyphen"/>vivo
+<pb n="21" facs="tcp:93381:12"/>relicto,</hi> and half dead, they walk away as if they had no hand in the Parricide, <hi>They wipe their Mouths, and cry, What have we done? Egredimini,</hi> and will no body come forth? Will no pious <hi>Samaritan</hi> make a halt? Will no one turn from his wicked Courses, or step aside out of the Paths of Sin, to bind up his Wounds, to wipe off his Tears, to assuage his Pains? Will no body pursue the Assas<g ref="char:EOLhyphen"/>sins? Will no body feise the Guilty Hands? When any unfortunate Accident befals a Child of yours, the House is presently in an Uproar, your Closets fly open, your Cabinets are rifled, every Hand is fill'd with Cordials, neither Ex<g ref="char:EOLhyphen"/>pence nor Diligence is spar'd: And be<g ref="char:EOLhyphen"/>hold the Child <hi>JESƲS</hi> wounded, and all for your sake; still Naked in the Poor, still Bleeding in the Hearts of the Widow and of the Orphan, and calling up<g ref="char:EOLhyphen"/>on you, not for your Silks or Velvets, the gaudy Trappings of wanton Luxury, but for a cast Garment to cover his Nakedness, to stanch his Blood; but
+<pb n="22" facs="tcp:93381:13"/>your Wardrobes are full, and your Hands are empty: Calling upon you, not for your high Cordials, your Pearl, or your Bezoar; but only for a small sprinkling of <hi>Oyl</hi> and <hi>Wine,</hi> that is, the common Elements to sustain Nature; and yet <hi>the Little ones,</hi> and in every one of these no less then a <hi>JESƲS, ask Bread,</hi>
+               <note place="margin">Lam. 4.4.</note>
+               <hi>and there is no one to break it to them.</hi> This unnatural Cruelty of yours opens his Wounds afresh,
+<note place="margin">Rev. 13.8.</note> and <hi>the Lamb that was slain from the beginning of the World,</hi> thro' your want of Charity and Compassion to his and your own Fel<g ref="char:EOLhyphen"/>low-Members, will bleed to the end of it.</p>
+            <p>But had any one treated, I do not say a Child or a Parent, I do not say a Relation or a Friend, but even a Ser<g ref="char:EOLhyphen"/>vant of yours, half so outragiously, all the Neighbourhood wou'd be rais'd a<g ref="char:EOLhyphen"/>gainst him, Vengeance wou'd overtake him as swift as Lightning, and fall upon him like Thunder. But here is a <hi>JE<g ref="char:EOLhyphen"/>SƲS</hi>
+               <pb n="23" facs="tcp:93381:13"/>wounded, and no body concern'd; a <hi>JESƲS</hi> wounded, and no body did it; no Inquest is made after the Mur<g ref="char:EOLhyphen"/>derers, no Justice lays hold on them: And what can be the reason of this In<g ref="char:EOLhyphen"/>sensibility, but that you are all Com<g ref="char:EOLhyphen"/>plices in the Crime? And for a Proof, <hi>Manus vestrae plenae sunt sanguine,</hi>
+               <note place="margin">Isa. 1.15.</note>
+               <hi>Your hands are</hi> still <hi>full of</hi> his <hi>blood.</hi> For while you persecute the Godly, while you de<g ref="char:EOLhyphen"/>fame the Innocent, while you charge them with Crimes in their Morals and Religion, Crimes of your own Inventi<g ref="char:EOLhyphen"/>on; while you draw the Sword upon your Brother for private Revenge, while you expose your selves to such Ex<g ref="char:EOLhyphen"/>cesses as blunt your Reason, and set an Edge upon your Passions, you shed the Blood of <hi>JESƲS,</hi> but shed it in vain, not to make the Price of your Redem<g ref="char:EOLhyphen"/>ption, as in this Days Solemnity; but to evacuate and frustrate it, and to leave your selves (according to the Apostle) <hi>no more sacrifice for sin.</hi>
+               <note place="margin">Heb. 10.26.</note>
+            </p>
+            <pb n="24" facs="tcp:93381:14"/>
+            <p>For it is a First Principle in Christian Divinity, and an unquestionable Point of our Religion, That as nothing cou'd draw the Son of God out of the Bo<g ref="char:EOLhyphen"/>som of his Father into this Vale of Tears, beside the Redemption of Man<g ref="char:EOLhyphen"/>kind; so nothing cou'd make him suf<g ref="char:EOLhyphen"/>fer in it, but the Sins of Man. It was not therefore the Rigour of the Law which subjected him to the Circumcisi<g ref="char:EOLhyphen"/>on: For, as the Law-maker, he was Su<g ref="char:EOLhyphen"/>periour to the Law; and, as Innocent, he was exempt from it;
+<note place="margin">1 Tim. 1.9.</note> (<hi>The law is not made</hi> (says the Apostle) <hi>for the just, but for the unjust:</hi>) But more forcibly to <hi>recommend his great Charity</hi> to us, and to antidate the Torments of the Cross, he abandons himself into the Hands of Sin<g ref="char:EOLhyphen"/>ners. His Love was only Consenting and <hi>Passive;</hi> but our Hands were the <hi>Actors</hi> in the Tragedy: And O that our Eyes were so too! But we stand insensible without Emotion, without Compassion, without a Tear, looking on him we
+<pb n="25" facs="tcp:93381:14"/>have pierced. We look upon the An<g ref="char:EOLhyphen"/>nual Revolution of this Solemnity as a meer Ceremony; We keep it too, but as the Heathens did their <hi>Newyears-day,</hi> to Consecrate their Vices. It is our Jol<g ref="char:EOLhyphen"/>lity marks out our <hi>Calendar,</hi> not our Devotion; and we owe even the Me<g ref="char:EOLhyphen"/>mory of our Feasts to the Regularity of our Excesses.</p>
+            <p>But the time was (my Brethren) when Grief sate upon the Face of every Chri<g ref="char:EOLhyphen"/>stian, for the Suffering of a Christ; when <hi>Love</hi> as well as <hi>Compassion</hi> bathed their Eyes in Tears, for this <hi>Earnest</hi> of our Redemption; when a sense of Gra<g ref="char:EOLhyphen"/>titude oblig'd them to enter into them<g ref="char:EOLhyphen"/>selves, to withdraw into their Closets, to spend this Day in Prayer, to shew they interess'd themselves in the Sufferings of a <hi>JESƲS,</hi> and hop'd to reap the Fruit of this Blessed Effusion: When the Memory of the ancient Circumcision which <hi>JESƲS</hi> submitted to, put them in mind of the Spiritual you stand ob<g ref="char:EOLhyphen"/>lig'd
+<pb n="26" facs="tcp:93381:15"/>to, and which, in your Baptism, you solemnly promis'd, you solemnly vow'd to perform; to divest your selves of the <hi>old man,</hi>
+               <note place="margin">Rom. 6.4.</note> and <hi>to walk before him in the newness of life;</hi> to circumcise eve<g ref="char:EOLhyphen"/>ry Concupiscence, to pass the Razor o<g ref="char:EOLhyphen"/>ver every Superfluity, and, in fine, to conform to the Example of this Day, to Consecrate your tenderest Infancy to Mortification, to seal up the Fountain of Corruption, or at least to check the Ef<g ref="char:EOLhyphen"/>fervescency of Nature with the Practices of Penance and Abstinence, and to ren<g ref="char:EOLhyphen"/>der your maturer Age a continual Mar<g ref="char:EOLhyphen"/>tyrdom; <hi>Vita Christiani juge Martyrium.</hi> But alas! the Old Law is come upon us again; we are wash'd, but we are not cleans'd; we are <hi>cur'd,</hi> but we are not <hi>heal'd;</hi>
+               <note place="margin">Jer. 51.9.</note>
+               <hi>Curavimus Babylonem, &amp; non est sanata;</hi> and the Blood of JESUS cannot so fast wipe off our Stains, as we put new ones in their places; we consider as little the Importance of this Blood, as when it was first applied to us, we knew not when we made our
+<pb n="27" facs="tcp:93381:15"/>Baptismal Promises, and know not when we shall perform them: We can give no better account why we took the Livery of Christ, then why we wear such Gar<g ref="char:EOLhyphen"/>ments, because (forsooth) it is the fashi<g ref="char:EOLhyphen"/>on to be Christians, an Honour transmit<g ref="char:EOLhyphen"/>ted to us from our Ancestors, and while we can sever the <hi>Title</hi> from the <hi>Burthen,</hi> the <hi>Name</hi> from the <hi>Duty,</hi> our Pride and Reputation is concerned to keep it up. But the attempt is as vain as it is impi<g ref="char:EOLhyphen"/>ous; for if <hi>Circumcision</hi> must make way for the name of <hi>JESƲS, Suffering</hi> must merit the name of <hi>Christian;</hi>
+               <note place="margin">Luc. 24.26.</note>
+               <hi>If it behoved Christ to suffer before he cou'd ar<g ref="char:EOLhyphen"/>rive to that Glory;</hi> what an irrational fondness is it to promise your selves the End without embracing the Means? If Humility be only Crown'd, what reward must Presumption expect? If Innocence be treated so severely, what Punishment is reserv'd for the Impenitent Sinner? If Christ submitted to the rigour of the Law, what Torments do's the Christian deserve, who <hi>feigns Labour in the Pre<g ref="char:EOLhyphen"/>cepts</hi>
+               <pb n="28" facs="tcp:93381:16"/>of the Gospel, who repines at the <hi>easie Yoke,</hi> and shakes off the <hi>light Bur<g ref="char:EOLhyphen"/>then,</hi> who applies to every Commandment of God, and his Church, the <hi>Capharnaites Durus sermo, This is a hard Saying, that is a hard Lesson, this is a Humane Imposition; that I cannot do, this I cannot understand,</hi> and therefore <hi>will not understand to do well;</hi>
+               <note place="margin">Psal. 35.4.</note>
+            </p>
+            <p>But these (O Blessed JESU) were the Corruptions of the <hi>Old Man,</hi> the Ex<g ref="char:EOLhyphen"/>cesses of the <hi>Old Year:</hi> But since thou, O <hi>Second Adam,</hi> hast vouchsafed by thy Pre<g ref="char:EOLhyphen"/>tious Blood to wash off the <hi>reproach of</hi> Egypt <hi>from us,</hi> O Divine Infant, to san<g ref="char:EOLhyphen"/>ctifie the first Period and Entry of the New-born Year, we resolve to desist from our ancient Practices, to change our an<g ref="char:EOLhyphen"/>cient Courses;
+<note place="margin">Eph. 4.23.</note>
+               <hi>Renovari spiritu mentis no<g ref="char:EOLhyphen"/>strae, to be renew'd in the spirit of our mind,</hi> in our Opinions, in our Sentiments, in our Judgments, as well as in the Con<g ref="char:EOLhyphen"/>duct of our Lives. We renew the Co<g ref="char:EOLhyphen"/>venant of a Spiritual Circumcision we
+<pb n="29" facs="tcp:93381:16"/>made with thee in our Baptism; and ac<g ref="char:EOLhyphen"/>cording as thy Word advises, we intend to make it the principal Business of our Lives, and <hi>to grow old in the ways of thy commandments.</hi> A hearty Sorrow for the Offences of the Old Year, and a firm Pur<g ref="char:EOLhyphen"/>pose of Amendment for the New, is all the Return we can make thee for the in<g ref="char:EOLhyphen"/>estimable Present of this Day. With most humble Acknowledgments we accept, and offer it again to thy Eternal Father, as the First-fruits of our Redemption from Sin, and as an Earnest of that Glory which is promis'd us in the Name of JESUS: <hi>Which I beseech God of his In<g ref="char:EOLhyphen"/>finite Mercy to bestow upon us, thro' the Merits of</hi> JESUS. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:93381:17"/>
+            <pb facs="tcp:93381:17"/>
+            <head>A Catalogue of Books Printed for <hi>Henry Hills,</hi> Printer to the King's most Excel<g ref="char:EOLhyphen"/>lent Majesty, for his Houshold and Chappel, 1686.</head>
+            <list>
+               <item>REflections upon the Answer to the <hi>Papist Mis-represented &amp;c.</hi> Directed to the Answerer. <hi>Quarto.</hi>
+               </item>
+               <item>
+                  <hi>Kalendarium Catholicum</hi> for the Year 1686. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>Papists</hi> Protesting against <hi>Protestant-Popery.</hi> In Answer to a Discourse Entituled, <hi>A Papist not Mis-represented by Pro<g ref="char:EOLhyphen"/>testants.</hi> Being a Vindication of the <hi>Papist Mis-represented</hi> and <hi>Represented,</hi> and the <hi>Reflections</hi> upon the Answer. <hi>Quart.</hi>
+               </item>
+               <item>Copies of Two Papers Written by the late King <hi>Charles</hi> II. Together with a Paper Written by the late Dutchess of <hi>York.</hi> Published by his Majesty's Command. <hi>Folio.</hi>
+               </item>
+               <item>The Spirit of Christianity. Published by his Majesty's Com<g ref="char:EOLhyphen"/>mand. <hi>Twelves.</hi>
+               </item>
+               <item>The first Sermon Preach'd before their Majesties in <hi>English</hi> at <hi>Windsor,</hi> on the first <hi>Sunday</hi> of <hi>October</hi> 1685. By the Re<g ref="char:EOLhyphen"/>verend Father <hi>Dom. P. E.</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congregation. Published by his Majesty's Command. <hi>Quarto.</hi>
+               </item>
+               <item>Second Sermon Preached before the King and Queen, and Queen Dowager, at Their Majesties Chappel at St <hi>James</hi>'s, <hi>November</hi> 1, 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>English</hi> Congregation. Published by his Majesty's Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+               </item>
+               <item>The Third Sermon Preach'd before the King and Queen, in their Majesties Chappel at St. <hi>James</hi>'s, on the third <hi>Sunday</hi> in <hi>Advent, Decemb.</hi> 13. 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>English</hi> Congr. Chaplain in Ordinary to His Ma<g ref="char:EOLhyphen"/>jesty. Published by His Majesties Command. <hi>Quarto.</hi>
+               </item>
+               <pb facs="tcp:93381:18"/>
+               <item>Sixth Sermon Preach'd before the King and Queen, in their Majesties Chappel at St. <hi>James</hi>'s, upon the first <hi>Wednesday</hi> in <hi>Lent,</hi> Febr. 24. 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Beneaics,</hi> and of the <hi>English</hi> Congregation. Publish'd by his Majesty's Command. <hi>Quarto.</hi>
+               </item>
+               <item>An Exposition of the Doctrine of the Catholic Church in Mat<g ref="char:EOLhyphen"/>ters of Controversie. By the Right Reverend <hi>James Benigne Bossuet,</hi> Counsellor to the King, Bishop of <hi>Meaux,</hi> formerly of <hi>Condom,</hi> and Preceptor to the <hi>Dauphin:</hi> First Almoner to the <hi>Dauphiness.</hi> Done into <hi>English</hi> with all the former Ap<g ref="char:EOLhyphen"/>probations, and others newly published in the Ninth and Last Edition of the <hi>French.</hi> Published by His Majesties Command. <hi>Quarto.</hi>
+               </item>
+               <item>A Sermon preach'd before the King and Queen, in Their Majesties Chappel at St. <hi>James</hi>'s, upon the <hi>Annunciation</hi> of our Blessed Lady, <hi>March</hi> 25. 1686. By <hi>Jo. Betham</hi> Doctor of <hi>Sorbon.</hi> Published by His Majesties Command. <hi>Quarto.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:93381:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
